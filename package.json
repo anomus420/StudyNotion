@@ -1,6 +1,9 @@
 {
   "name": "react-tailwind-css-starter-pack",
   "version": "0.1.0",
+  "engines": {
+    "node": "18.x"
+  },
   "private": true,
   "dependencies": {
     "@ramonak/react-progress-bar": "^5.0.3",
